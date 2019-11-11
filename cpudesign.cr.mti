@@ -1,0 +1,22 @@
+I:/ece552/chrischuscomputer/register.sv {1 {vlog -work work -vopt -sv -stats=none I:/ece552/chrischuscomputer/register.sv
+Model Technology ModelSim SE vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module register
+
+Top level modules:
+	register
+
+} {} {}} I:/ece552/chrischuscomputer/dff.v {1 {vlog -work work -vopt -stats=none {I:\ece552\chrischuscomputer\dff.v}
+Model Technology ModelSim SE vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module fdd
+
+Top level modules:
+	fdd
+
+} {} {}} I:/ece552/chrischuscomputer/bitCell.sv {1 {vlog -work work -vopt -sv -stats=none I:/ece552/chrischuscomputer/bitCell.sv
+Model Technology ModelSim SE vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module bitCell
+
+Top level modules:
+	bitCell
+
+} {} {}}

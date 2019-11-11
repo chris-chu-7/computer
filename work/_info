@@ -1,0 +1,77 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/ProgramData/App-V/2191B702-5279-4048-91BA-BCF8F2A20B49/3C5B5D32-C303-48A2-8738-F357EDE80167/Root/examples
+vbitCell
+Z0 DXx6 sv_std 3 std 0 22 <EOTafDcUY:cQeO^ICn]m3
+!s110 1573429049
+!i10b 1
+!s100 Hk6^_B75@]WhASa2b7@jL2
+I[LE47i<77AK3Rg60mmWf52
+Z1 V`JN@9S9cnhjKRR_L]QIcM3
+!s105 bitCell_sv_unit
+S1
+Z2 dI:/ece552/chrischuscomputer
+w1573429042
+8I:/ece552/chrischuscomputer/bitCell.sv
+FI:/ece552/chrischuscomputer/bitCell.sv
+L0 1
+Z3 OE;L;10.3c;59
+r1
+!s85 0
+31
+!s108 1573429048.953000
+!s107 I:/ece552/chrischuscomputer/bitCell.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|I:/ece552/chrischuscomputer/bitCell.sv|
+!i113 0
+Z4 o-work work -sv -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+nbit@cell
+vfdd
+!s110 1573429048
+!i10b 1
+!s100 a7_K9AcGabPg9:oY`jzii3
+I@0T@_8Cc^MFQ;e_XJKoo40
+R1
+R2
+w1573425995
+8I:\ece552\chrischuscomputer\dff.v
+FI:\ece552\chrischuscomputer\dff.v
+L0 3
+R3
+r1
+!s85 0
+31
+!s108 1573429048.499000
+!s107 I:\ece552\chrischuscomputer\dff.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|I:\ece552\chrischuscomputer\dff.v|
+!i113 0
+o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vregister
+R0
+!s110 1573430586
+!i10b 1
+!s100 `^==4?Q=GndHYG<_C=k>U1
+ILX1HkA<=8FTl]:LSdm]HW3
+R1
+!s105 register_sv_unit
+S1
+R2
+w1573430583
+8I:/ece552/chrischuscomputer/register.sv
+FI:/ece552/chrischuscomputer/register.sv
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1573430585.826000
+!s107 I:/ece552/chrischuscomputer/register.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|I:/ece552/chrischuscomputer/register.sv|
+!i113 0
+R4
