@@ -1,18 +1,36 @@
-I:/ece552/chrischuscomputer/register.sv {1 {vlog -work work -vopt -sv -stats=none I:/ece552/chrischuscomputer/register.sv
+I:/ece552/chrischuscomputer/implementation/rDecoder.sv {0 {vlog -work work -vopt -sv -stats=none I:/ece552/chrischuscomputer/implementation/rDecoder.sv
 Model Technology ModelSim SE vlog 10.3c Compiler 2014.07 Jul 19 2014
--- Compiling module register
+** Error: (vlog-19) Failed to access library 'work' at "work".
 
-Top level modules:
-	register
+No such file or directory. (errno = ENOENT)
 
-} {} {}} I:/ece552/chrischuscomputer/dff.v {1 {vlog -work work -vopt -stats=none {I:\ece552\chrischuscomputer\dff.v}
+} {3.0 4.0} {}} //files.cae.wisc.edu/c/cchu34/ece552/chrischuscomputer/implementation/rDecoder.sv {0 {vlog -work work -vopt -sv -stats=none //files.cae.wisc.edu/c/cchu34/ece552/chrischuscomputer/implementation/rDecoder.sv
+Model Technology ModelSim SE vlog 10.3c Compiler 2014.07 Jul 19 2014
+** Error: (vlog-19) Failed to access library 'work' at "work".
+
+No such file or directory. (errno = ENOENT)
+
+} {3.0 4.0} {}} I:/ece552/chrischuscomputer/dff.v {1 {vlog -work work -vopt -stats=none {I:\ece552\chrischuscomputer\dff.v}
 Model Technology ModelSim SE vlog 10.3c Compiler 2014.07 Jul 19 2014
 -- Compiling module fdd
 
 Top level modules:
 	fdd
 
-} {} {}} I:/ece552/chrischuscomputer/bitCell.sv {1 {vlog -work work -vopt -sv -stats=none I:/ece552/chrischuscomputer/bitCell.sv
+} {} {}} I:/ece552/chrischuscomputer/register.sv {1 {vlog -work work -vopt -sv -stats=none I:/ece552/chrischuscomputer/register.sv
+Model Technology ModelSim SE vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module register
+
+Top level modules:
+	register
+
+} {} {}} I:/ece552/chrischuscomputer/implementation/dff.v {0 {vlog -work work -vopt -stats=none I:/ece552/chrischuscomputer/implementation/dff.v
+Model Technology ModelSim SE vlog 10.3c Compiler 2014.07 Jul 19 2014
+** Error: (vlog-19) Failed to access library 'work' at "work".
+
+No such file or directory. (errno = ENOENT)
+
+} {3.0 4.0} {}} I:/ece552/chrischuscomputer/bitCell.sv {1 {vlog -work work -vopt -sv -stats=none I:/ece552/chrischuscomputer/bitCell.sv
 Model Technology ModelSim SE vlog 10.3c Compiler 2014.07 Jul 19 2014
 -- Compiling module bitCell
 
