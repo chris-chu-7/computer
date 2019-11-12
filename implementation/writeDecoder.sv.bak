@@ -1,6 +1,6 @@
 //register read decoder
 
-module rDecoder(regId, Wordline);
+module rDecoder(regId, Wordline, writeReg);
 input [3:0] regId;
 output reg[15:0] Wordline;
 reg[15:0] line;

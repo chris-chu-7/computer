@@ -6,7 +6,7 @@ output reg[15:0] Wordline;
 reg[15:0] line;
 input writeReg;
 
-assign wordLine = (writeReg) ? line : 16'h0000;
+assign WordLine = (writeReg) ? line : 16'h0000;
 
 
 
